@@ -4,7 +4,7 @@ import 'package:give_me_a_job/utils/screen_size.dart';
 import 'package:give_me_a_job/widgets/custom_animation_builder.dart';
 
 class DayOne extends StatefulWidget {
-  DayOne({Key? key}) : super(key: key);
+  const DayOne({Key? key}) : super(key: key);
 
   @override
   State<DayOne> createState() => _DayOneState();

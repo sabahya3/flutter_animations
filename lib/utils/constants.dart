@@ -8,3 +8,5 @@ List<String> nfts = [
   "https://1.bp.blogspot.com/-saYA0Bm0VSM/YI5T5h6bTnI/AAAAAAAAAMM/02faeiY5dYYyog9tJNrkHycYgMN8eQgWQCLcBGAsYHQ/s647/IMG_20210502_125350%255B1%255D.jpg",
   "https://images.pexels.com/photos/2559931/pexels-photo-2559931.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 ];
+
+const img='https://images.pexels.com/photos/12373451/pexels-photo-12373451.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load';

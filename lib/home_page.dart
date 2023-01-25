@@ -9,7 +9,7 @@ class HomePage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         centerTitle: true,
-        title: const Text('Need an internship'),
+        title: const Text('challenges'),
       ),
       body: SizedBox.expand(
         child: Column(
@@ -18,6 +18,8 @@ class HomePage extends StatelessWidget {
           children: [
             CustomButton(route: '/dayOne', text: 'Day 1'),
             CustomButton(route: '/dayTwo', text: 'Day 2'),
+            CustomButton(route: '/dayThree', text: 'Day 3'),
+            CustomButton(route: '/dayFour', text: 'Day 4'),
           ],
         ),
       ),

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_app_id">540295644256754</string>
+    <string name="fb_login_protocol_scheme">fb540295644256754</string>
+    <string name="app_name">tayma</string>
+    <string name="facebook_client_token">3282e177e451b7b2151aab24fe34dc74</string>
+</resources>
